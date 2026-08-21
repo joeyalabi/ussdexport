@@ -20,3 +20,4 @@ class AddfundsModel extends FlutterFlowModel<AddfundsWidget> {
     textController?.dispose();
   }
 }
+
